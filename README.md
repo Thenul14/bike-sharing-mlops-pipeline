@@ -4,6 +4,16 @@ An academic team project that predicts hourly bicycle rental demand using histor
 
 **Dataset:** Capital Bikeshare, Washington, D.C. (2011–2012) · **17,379 hourly observations** · **Task:** regression
 
+## Live Application — VeloCast
+
+The trained Random Forest model from this MLOps pipeline has been integrated into VeloCast, a standalone web application that provides interactive hourly bike rental demand predictions.
+
+The application demonstrates how a trained machine learning model can be deployed through a React frontend and a Python serverless prediction API.
+
+- [Live Demo](https://vercel.com/thenulbcuacuk-9462/velocast-bike-demand)
+- [VeloCast Application Repository](https://github.com/Thenul14/velocast-bike-demand)
+
+
 ## Architecture
 
 ```mermaid
