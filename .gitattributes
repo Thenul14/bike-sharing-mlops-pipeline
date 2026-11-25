@@ -1,0 +1,4 @@
+# Preserve upstream dataset bytes and attribution text.
+/bike_share/*.csv -text
+/bike_share/Readme.txt -text
+*.png binary

@@ -1,0 +1,17 @@
+pandas==2.1.4
+numpy==1.26.4
+scikit-learn==1.7.2
+pyarrow==23.0.1
+mlflow==3.11.1
+redis
+sqlalchemy>=1.4.49,<2.0
+pymysql
+python-dotenv
+fastapi
+uvicorn
+pydantic>=2,<3
+xgboost
+matplotlib
+seaborn
+jupyter
+pytest
